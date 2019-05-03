@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/creel/coding/net/filetrans/main.c
+stdio.h
+-
+sys/socket.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+arpa/inet.h
+-
+errno.h
+-
+sys/select.h
+-
+stdlib.h
+-
+signal.h
+-
+

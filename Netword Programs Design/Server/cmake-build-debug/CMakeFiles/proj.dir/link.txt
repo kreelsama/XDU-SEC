@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/proj.dir/main.c.o  -o proj -lsqlite3 -lpthread 

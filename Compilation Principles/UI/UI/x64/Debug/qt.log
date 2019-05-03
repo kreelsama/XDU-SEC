@@ -1,0 +1,3 @@
+ui.qrc|"E:\subjects\编译原理\UI\UI\UI\ui.qrc" -o ".\GeneratedFiles\qrc_ui.cpp" --name ui
+ui.ui|"E:\subjects\编译原理\UI\UI\UI\ui.ui" -o ".\GeneratedFiles\ui_ui.h"
+ui.h|"E:\subjects\编译原理\UI\UI\UI\ui.h" -o ".\GeneratedFiles\Debug\moc_ui.cpp" "-I.\GeneratedFiles" "-I." "-IE:\ProgramData\Qt\5.9.2\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IE:\ProgramData\Qt\5.9.2\msvc2017_64\include\QtCore" "-IE:\ProgramData\Qt\5.9.2\msvc2017_64\include\QtGui" "-IE:\ProgramData\Qt\5.9.2\msvc2017_64\include\QtANGLE" "-IE:\ProgramData\Qt\5.9.2\msvc2017_64\include\QtWidgets" "-IE:\ProgramData\Qt\5.9.2\msvc2017_64\include\QWT" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
